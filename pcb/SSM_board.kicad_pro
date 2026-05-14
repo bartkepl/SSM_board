@@ -582,7 +582,7 @@
     "page_layout_descr_file": ""
   },
   "schematic": {
-    "annotate_start_num": 0,
+    "annotate_start_num": 1,
     "bom_export_filename": "..\\BOM\\${PROJECTNAME}.csv",
     "bom_fmt_presets": [
       {
@@ -790,6 +790,18 @@
     [
       "d838c711-cdb6-4629-89ff-2a25954e6230",
       "Driver4"
+    ],
+    [
+      "576b7f4e-8817-4ee1-8a15-5cdcf9439792",
+      "Driver5"
+    ],
+    [
+      "78aef09a-8252-44eb-8827-f7bbb393044a",
+      "Driver6"
+    ],
+    [
+      "04d91d17-e18a-4ec3-93a5-741a50a75405",
+      "Driver7"
     ]
   ],
   "text_variables": {}
