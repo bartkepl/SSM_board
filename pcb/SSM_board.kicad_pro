@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.3
+          "min_clearance": 0.35
         }
       },
       "diff_pair_dimensions": [
@@ -77,6 +77,22 @@
         ],
         [
           "missing_courtyard|170040000|99990000|91a8708a-3c60-4992-b66a-ce1a234e8463|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_edge_clearance|70070000|100485000|d5653a57-3c13-4e8f-8d68-ca356a5d2a95|a03ecb41-7395-4e0b-a005-8d231678d8ca",
+          ""
+        ],
+        [
+          "silk_edge_clearance|70070000|139805000|d5653a57-3c13-4e8f-8d68-ca356a5d2a95|4a604ffd-0c7d-4ceb-bcf1-65dab828fa0c",
+          ""
+        ],
+        [
+          "silk_edge_clearance|70070000|60175000|d5653a57-3c13-4e8f-8d68-ca356a5d2a95|49c33c30-163d-4846-ad57-a4a93b5db842",
+          ""
+        ],
+        [
+          "silk_edge_clearance|70070000|99495000|d5653a57-3c13-4e8f-8d68-ca356a5d2a95|169a0d35-dfb0-4565-923e-6a690776ca9f",
           ""
         ]
       ],
