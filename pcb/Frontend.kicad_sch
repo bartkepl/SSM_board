@@ -16148,7 +16148,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 101.6 299.72 0)
 			(effects
 				(font
@@ -16400,7 +16400,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 101.6 266.7 0)
 			(effects
 				(font
@@ -16701,7 +16701,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 288.29 161.29 0)
 			(effects
 				(font
@@ -16860,6 +16860,15 @@
 		)
 		(property "Description" "4 resistor network, parallel topology"
 			(at 535.94 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "YC164-FR-07470R"
+			(at 535.94 128.27 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17104,7 +17113,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 66.04 250.19 0)
 			(effects
 				(font
@@ -17224,7 +17233,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 101.6 250.19 0)
 			(effects
 				(font
@@ -17410,7 +17419,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 252.73 144.78 0)
 			(effects
 				(font
@@ -17596,7 +17605,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 391.16 95.25 0)
 			(effects
 				(font
@@ -17716,7 +17725,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 288.29 95.25 0)
 			(effects
 				(font
@@ -17951,7 +17960,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 252.73 95.25 0)
 			(effects
 				(font
@@ -18335,7 +18344,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 252.73 177.8 0)
 			(effects
 				(font
@@ -18702,7 +18711,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 358.14 78.74 0)
 			(effects
 				(font
@@ -19049,6 +19058,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "YC164-FR-07470R"
+			(at 535.94 199.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "7"
 			(uuid "79df18bf-b51f-486a-be09-cf5ed14c4581")
 		)
@@ -19154,7 +19172,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 101.6 233.68 0)
 			(effects
 				(font
@@ -19274,7 +19292,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 391.16 177.8 0)
 			(effects
 				(font
@@ -19641,7 +19659,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 288.29 128.27 0)
 			(effects
 				(font
@@ -19942,7 +19960,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 66.04 299.72 0)
 			(effects
 				(font
@@ -20292,7 +20310,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 101.6 283.21 0)
 			(effects
 				(font
@@ -20640,6 +20658,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "YC164-FR-07470R"
+			(at 535.94 218.44 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "7"
 			(uuid "6a95e6b2-d92a-485e-9620-99ea6baa03d2")
 		)
@@ -20850,6 +20877,15 @@
 		)
 		(property "Description" "4 resistor network, parallel topology"
 			(at 535.94 270.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "YC164-FR-07470R"
+			(at 535.94 270.51 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21192,7 +21228,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 323.85 161.29 0)
 			(effects
 				(font
@@ -21285,6 +21321,15 @@
 		)
 		(property "Description" "4 resistor network, parallel topology"
 			(at 535.94 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "YC164-FR-07470R"
+			(at 535.94 92.71 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21396,7 +21441,7 @@
 		(at 158.75 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -21756,7 +21801,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 323.85 144.78 0)
 			(effects
 				(font
@@ -21991,7 +22036,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 288.29 177.8 0)
 			(effects
 				(font
@@ -22085,6 +22130,15 @@
 		)
 		(property "Description" "4 resistor network, parallel topology"
 			(at 535.94 289.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "YC164-FR-07470R"
+			(at 535.94 289.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22691,7 +22745,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 66.04 217.17 0)
 			(effects
 				(font
@@ -22992,7 +23046,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 101.6 118.11 0)
 			(effects
 				(font
@@ -23342,7 +23396,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 323.85 194.31 0)
 			(effects
 				(font
@@ -23577,7 +23631,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 391.16 78.74 0)
 			(effects
 				(font
@@ -23697,7 +23751,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 252.73 194.31 0)
 			(effects
 				(font
@@ -23817,7 +23871,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 358.14 144.78 0)
 			(effects
 				(font
@@ -24003,7 +24057,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 66.04 200.66 0)
 			(effects
 				(font
@@ -24351,6 +24405,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "YC164-FR-07470R"
+			(at 535.94 40.64 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "7"
 			(uuid "3a7efc15-0a28-491c-afc9-2498b7d9f3ee")
 		)
@@ -24430,6 +24493,15 @@
 		)
 		(property "Description" "4 resistor network, parallel topology"
 			(at 535.94 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "YC164-FR-07470R"
+			(at 535.94 182.88 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24838,7 +24910,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 391.16 128.27 0)
 			(effects
 				(font
@@ -24958,7 +25030,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 66.04 184.15 0)
 			(effects
 				(font
@@ -25307,7 +25379,7 @@
 		(at 449.58 74.93 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -25459,6 +25531,15 @@
 		)
 		(property "Description" "4 resistor network, parallel topology"
 			(at 535.94 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "YC164-FR-07470R"
+			(at 535.94 57.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26031,7 +26112,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 288.29 144.78 0)
 			(effects
 				(font
@@ -26125,6 +26206,15 @@
 		)
 		(property "Description" "4 resistor network, parallel topology"
 			(at 535.94 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "YC164-FR-07470R"
+			(at 535.94 111.76 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26237,7 +26327,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 252.73 78.74 0)
 			(effects
 				(font
@@ -26538,7 +26628,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 358.14 161.29 0)
 			(effects
 				(font
@@ -26658,7 +26748,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 323.85 95.25 0)
 			(effects
 				(font
@@ -26778,7 +26868,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 358.14 194.31 0)
 			(effects
 				(font
@@ -27013,7 +27103,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 358.14 95.25 0)
 			(effects
 				(font
@@ -27133,7 +27223,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 288.29 111.76 0)
 			(effects
 				(font
@@ -27549,7 +27639,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 66.04 283.21 0)
 			(effects
 				(font
@@ -27669,7 +27759,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 66.04 151.13 0)
 			(effects
 				(font
@@ -27789,7 +27879,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 66.04 134.62 0)
 			(effects
 				(font
@@ -27909,7 +27999,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 391.16 161.29 0)
 			(effects
 				(font
@@ -28191,6 +28281,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "YC164-FR-07470R"
+			(at 535.94 254 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "7"
 			(uuid "9c86318a-4889-4f84-bd6b-11372b6df554")
 		)
@@ -28296,7 +28395,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 391.16 111.76 0)
 			(effects
 				(font
@@ -28416,7 +28515,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 391.16 144.78 0)
 			(effects
 				(font
@@ -28575,6 +28674,15 @@
 		)
 		(property "Description" "4 resistor network, parallel topology"
 			(at 535.94 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "YC164-FR-07470R"
+			(at 535.94 163.83 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28890,6 +28998,15 @@
 		)
 		(property "Description" "4 resistor network, parallel topology"
 			(at 535.94 306.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "YC164-FR-07470R"
+			(at 535.94 306.07 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29327,6 +29444,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "YC164-FR-07470R"
+			(at 535.94 234.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "7"
 			(uuid "efed7d07-48c5-4003-a845-1e26aed6d56f")
 		)
@@ -29432,7 +29558,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 252.73 128.27 0)
 			(effects
 				(font
@@ -29552,7 +29678,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 101.6 200.66 0)
 			(effects
 				(font
@@ -29672,7 +29798,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 101.6 217.17 0)
 			(effects
 				(font
@@ -29907,7 +30033,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 323.85 78.74 0)
 			(effects
 				(font
@@ -30553,7 +30679,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 66.04 233.68 0)
 			(effects
 				(font
@@ -30805,7 +30931,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 358.14 111.76 0)
 			(effects
 				(font
@@ -30925,7 +31051,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 101.6 134.62 0)
 			(effects
 				(font
@@ -31045,7 +31171,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 252.73 161.29 0)
 			(effects
 				(font
@@ -31806,7 +31932,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 101.6 151.13 0)
 			(effects
 				(font
@@ -32305,7 +32431,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 323.85 111.76 0)
 			(effects
 				(font
@@ -32540,7 +32666,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 288.29 194.31 0)
 			(effects
 				(font
@@ -32660,7 +32786,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 391.16 194.31 0)
 			(effects
 				(font
@@ -33076,7 +33202,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 288.29 78.74 0)
 			(effects
 				(font
@@ -33196,7 +33322,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 66.04 266.7 0)
 			(effects
 				(font
@@ -33316,7 +33442,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 323.85 128.27 0)
 			(effects
 				(font
@@ -33436,7 +33562,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 66.04 118.11 0)
 			(effects
 				(font
@@ -33556,7 +33682,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 358.14 128.27 0)
 			(effects
 				(font
@@ -33650,6 +33776,15 @@
 		)
 		(property "Description" "4 resistor network, parallel topology"
 			(at 535.94 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "YC164-FR-07470R"
+			(at 535.94 76.2 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34352,6 +34487,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "YC164-FR-07470R"
+			(at 535.94 147.32 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "7"
 			(uuid "6b0b56eb-24fd-4f35-9da2-9238beaca30c")
 		)
@@ -34836,7 +34980,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 101.6 184.15 0)
 			(effects
 				(font
@@ -34956,7 +35100,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 323.85 177.8 0)
 			(effects
 				(font
@@ -35602,7 +35746,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 252.73 111.76 0)
 			(effects
 				(font
@@ -36052,7 +36196,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 101.6 167.64 0)
 			(effects
 				(font
@@ -36287,7 +36431,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 358.14 177.8 0)
 			(effects
 				(font
@@ -36522,7 +36666,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "GAQY212GS"
 			(at 66.04 167.64 0)
 			(effects
 				(font

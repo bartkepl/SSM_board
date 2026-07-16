@@ -4004,7 +4004,7 @@
 		(at 228.6 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -4420,6 +4420,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "1206B102K202"
+			(at 171.45 135.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0f2186a0-52a0-4e1a-8525-ce5a6ba7da5c")
 		)
@@ -4481,6 +4490,15 @@
 		)
 		(property "Description" "1206B102K202"
 			(at 177.8 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "1206B102K202"
+			(at 177.8 146.05 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4813,6 +4831,15 @@
 		)
 		(property "Description" "1206B102K202"
 			(at 165.1 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "1206B102K202"
+			(at 165.1 146.05 90)
 			(effects
 				(font
 					(size 1.27 1.27)

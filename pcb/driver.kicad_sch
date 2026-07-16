@@ -1920,6 +1920,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer_Part_Number" "CRCW060310K0FKTABC"
+			(at 129.54 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b11dfdd1-ab96-43e1-b0c1-17f0a6069e68")
 		)
@@ -2151,7 +2160,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" ""
+		(property "Manufacturer_Part_Number" "WLBD1608HCU101TL"
 			(at 149.86 60.96 90)
 			(effects
 				(font
