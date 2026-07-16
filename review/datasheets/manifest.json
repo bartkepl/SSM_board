@@ -1,0 +1,24 @@
+{
+  "schematic": "analysis/2026-07-16_1342/schematic.json",
+  "last_sync": "2026-07-16T11:43:49.249556+00:00",
+  "parts": {
+    "WLBD1608HCU101TL": {
+      "manufacturer": "",
+      "description": "WLBD1608HCU101TL",
+      "value": "100R @ 100MHz",
+      "references": [
+        "FB8",
+        "FB3",
+        "FB4",
+        "FB6",
+        "FB2",
+        "FB7",
+        "FB1",
+        "FB5"
+      ],
+      "status": "not_found",
+      "error": "No LCSC results for 'WLBD1608HCU101TL'",
+      "last_attempt": "2026-07-16T11:43:48.605866+00:00"
+    }
+  }
+}

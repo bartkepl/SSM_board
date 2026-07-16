@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "project": "SSM_board.kicad_pro",
+  "current": "2026-07-16_1342",
+  "runs": {
+    "2026-07-16_1342": {
+      "source_hashes": {
+        "SSM_board.kicad_sch": "sha256:95475493a826a09fa51f99adb0af5c48aed7ec1362ca7d03e61262ae699c3f10",
+        "SSM_board.kicad_pcb": "sha256:551fb9ad1d8dc20ed1cb9dc21a1bd6d42bc73712968d5094799fe08f7ad949e9",
+        "schematic.json": "sha256:2b2516f1e7e1c4562b748c10d92177e2d5b780dd10763321a3c5037c49cfebcf",
+        "pcb.json": "sha256:554a41d65c1443897baf6115e29ec10a0c808c30467edc8049c0754885fc3c43"
+      },
+      "outputs": {
+        "schematic": "schematic.json",
+        "pcb": "pcb.json",
+        "cross_analysis": "cross_analysis.json",
+        "emc": "emc.json",
+        "thermal": "thermal.json"
+      },
+      "scripts": {
+        "schematic": "analyze_schematic.py SSM_board.kicad_sch"
+      },
+      "generated": "2026-07-16T13:49:36+02:00",
+      "pinned": false
+    }
+  }
+}
