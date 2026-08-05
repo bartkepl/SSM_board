@@ -9,27 +9,87 @@
         "description": "",
         "drawing_sheet": "",
         "format": "pdf",
-        "hpgl_page_size": "default",
-        "hpgl_pen_size": 1.016,
-        "hpgl_plot_origin": "A3",
         "min_pen_width": 847,
-        "output_dir": "sch",
+        "output_filename": "sch/${PROJECTNAME}.pdf",
         "page_size": "auto",
         "pdf_hierarchical_links": true,
         "pdf_metadata": true,
         "pdf_property_popups": true,
         "plot_all": true,
         "plot_drawing_sheet": true,
-        "use_background_color": true
+        "show_hop_over": false,
+        "use_background_color": true,
+        "variant_name": "",
+        "variant_names": []
       },
       "type": "sch_export_plot_pdf"
+    },
+    {
+      "description": "",
+      "id": "a230573a-ad64-4d9d-86a8-d383461294f1",
+      "settings": {
+        "bom_format_preset_name": "Main",
+        "bom_preset_name": "",
+        "description": "",
+        "exclude_dnp": false,
+        "field_delimiter": ";",
+        "fields_group_by": [
+          "Value"
+        ],
+        "fields_labels": [
+          "Oznaczenie",
+          "Wartość",
+          "Footprint",
+          "Dokumentacja",
+          "Opis",
+          "Liczba",
+          "#",
+          "Height",
+          "Manufacturer_Name",
+          "Manufacturer_Part_Number",
+          "Sim.Device",
+          "Sim.Pins",
+          "TME Electronic Components Part Number",
+          "TME Electronic Components Price/Stock"
+        ],
+        "fields_ordered": [
+          "Reference",
+          "Value",
+          "Footprint",
+          "__Datasheet",
+          "Description",
+          "${QUANTITY}",
+          "__${ITEM_NUMBER}",
+          "__Height",
+          "__Manufacturer_Name",
+          "__Manufacturer_Part_Number",
+          "__Sim.Device",
+          "__Sim.Pins",
+          "__TME Electronic Components Part Number",
+          "__TME Electronic Components Price/Stock"
+        ],
+        "filter_string": "",
+        "group_symbols": true,
+        "keep_line_breaks": false,
+        "keep_tabs": false,
+        "output_filename": "bom\\${PROJECTNAME}.csv",
+        "ref_delimiter": ",",
+        "ref_range_delimiter": "",
+        "sort_asc": true,
+        "sort_field": "Reference",
+        "string_delimiter": "",
+        "variant_names": []
+      },
+      "type": "sch_export_bom"
     },
     {
       "description": "",
       "id": "1df102d0-2b07-4443-b66d-011484bf6bd6",
       "settings": {
         "back_fp_property_popups": true,
+        "background_color": "rgba(0, 0, 0, 0.000)",
         "black_and_white": true,
+        "check_zones": false,
         "color_theme": "",
         "crossout_dnp_footprints_on_fab_layers": true,
         "description": "",
@@ -78,32 +138,22 @@
         ],
         "mirror": false,
         "negative": false,
-        "output_filename": "pcb",
+        "output_filename": "pcb/${PROJECTNAME}.pdf",
         "pdf_gen_mode": "one-page-per-layer-one-file",
         "pdf_metadata": true,
         "plot_drawing_sheet": true,
         "plot_footprint_values": true,
         "plot_pad_numbers": false,
         "plot_ref_des": true,
+        "scale": 1.0,
         "single_document": true,
         "sketch_dnp_footprints_on_fab_layers": true,
         "sketch_pads_on_fab_layers": false,
         "subtract_solder_mask_from_silk": true,
-        "use_drill_origin": false
+        "use_drill_origin": false,
+        "variant": ""
       },
       "type": "pcb_export_pdf"
-    },
-    {
-      "description": "",
-      "id": "3f94476a-2ace-4cd7-80cd-0c1a4c2a47d0",
-      "settings": {
-        "command": "python \"${KICAD9_3RD_PARTY}/plugins/org_openscopeproject_InteractiveHtmlBom/generate_interactive_bom.py\" --dest-dir \"${JOBSET_OUTPUT_WORK_PATH}\\ibom\" --name-format \"%f_ibom\" --no-browser --dnp-field \"kicad_dnp\" --dark-mode --highlight-pin1 selected --board-rotation 0 --checkboxes \"Sourced,Placed\" --bom-view left-right --layer-view FB --sort-order \"C,R,L,D,Y,X,F,A,Q,T,U,IC,~,K,HS,CNN,P,J,NT,MH,SW\" --include-tracks --include-nets --show-fields \"Value,Footprint,Description\" --group-fields \"Value\" --extra-data-file ${PROJECTNAME}.kicad_pcb ${PROJECTNAME}.kicad_pcb",
-        "description": "",
-        "ignore_exit_code": false,
-        "output_filename": "3f94476a-2ace-4cd7-80cd-0c1a4c2a47d0.log",
-        "record_output": false
-      },
-      "type": "special_execute"
     }
   ],
   "meta": {
@@ -111,7 +161,7 @@
   },
   "outputs": [
     {
-      "description": "",
+      "description": "Prod",
       "id": "98701b62-f76e-4c35-8448-e1f7a2031964",
       "only": [],
       "settings": {
