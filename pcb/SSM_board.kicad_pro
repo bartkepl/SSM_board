@@ -734,7 +734,7 @@
       "method": 0,
       "sort_order": 0
     },
-    "bom_export_filename": "bom\\${PROJECTNAME}.csv",
+    "bom_export_filename": "..\\BOM\\${PROJECTNAME}.csv",
     "bom_fmt_presets": [
       {
         "field_delimiter": ";",
