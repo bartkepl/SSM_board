@@ -734,7 +734,7 @@
       "method": 0,
       "sort_order": 0
     },
-    "bom_export_filename": "..\\BOM\\${PROJECTNAME}.csv",
+    "bom_export_filename": "bom\\emulator_glowicy.csv",
     "bom_fmt_presets": [
       {
         "field_delimiter": ";",
@@ -918,7 +918,7 @@
         "uuid": "0c4edb77-9bdf-4103-be66-c5eb9940b163"
       }
     ],
-    "used_designators": "#FLG2-6",
+    "used_designators": "#FLG2-6,FID2-3",
     "variants": []
   },
   "sheets": [
